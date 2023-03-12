@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="RunProject" verbose="1" >
+    <test name="Project" >
+        <classes>
+            <class name="RegisterPage"></class>
+            <class name="InvalidRegisterPageTest"></class>
+            <class name="InvalidLogInPage"></class>
+            <class name="InvalidRegisterPageTest"></class>
+            <class name="ContactUsPageTest"></class>
+            <class name="SearchPageTest"></class>
+        </classes>
+    </test>
+</suite>
