@@ -6,7 +6,6 @@
             <class name="RegisterPage"></class>
             <class name="InvalidRegisterPageTest"></class>
             <class name="InvalidLogInPage"></class>
-            <class name="InvalidRegisterPageTest"></class>
             <class name="ContactUsPageTest"></class>
             <class name="SearchPageTest"></class>
         </classes>
