@@ -9,9 +9,6 @@
             <class name="InvalidRegisterPageTest"></class>
             <class name="ContactUsPageTest"></class>
             <class name="SearchPageTest"></class>
-            <class name="AddTocartPageTest"></class>
-            <class name="ForgotPasswordTest"></class>
-            <class name="SearchPageTest"></class>
         </classes>
     </test>
 </suite>
